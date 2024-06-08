@@ -46,6 +46,6 @@ public class Utils {
 	}
 	
 	public void testGit() {
-		
+		System.out.println("test");
 	}
 }
